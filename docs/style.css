@@ -1,0 +1,33 @@
+* {
+    color: orange;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+body {
+    background-color: blue;
+}
+
+#result {
+    font-family: cursive;
+    font-size: 25px;
+}
+
+button, input {
+    background-color: orange;
+    color: blue;
+    border: 1px solid blue;
+    border-radius: 10px;
+    text-align: center;
+    outline: none;
+}
+
+button:hover, input:hover{
+    background-color: rgb(158, 103, 0);
+    color: rgb(0, 0, 134);
+    border: 1px solid rgb(0, 0, 134);
+    border-radius: 10px;
+}
