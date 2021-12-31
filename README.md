@@ -13,8 +13,8 @@ In 2.0:
   - You can link your any pack3age account or create a new daww account
   - Better style
   - More functions with account, for example:
-      >>> You can search for online databases and download it
-      >>> Auto ip tool
-      >>> etc...
+      - You can search for online databases and download it
+      - Auto ip tool
+      - etc...
       
 Keep your peace, this is just a demo version, its not the full. The full version (2.0) coming soon!
